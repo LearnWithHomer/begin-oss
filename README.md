@@ -70,8 +70,13 @@ Credit should be always be given where credit is due. There are always exception
 
 ## Existing Projects
 
+- [SQL Dependency Graph](https://github.com/LearnWithHomer/sql_dependency_graph)
+    - Simple dependency graph visualizer for sql files.
 - ????
 
 ## Potential projects
+
+- [Bird](https://github.com/LearnWithHomer/bird)
+    - Data Vault and Data Mart in pyspark.
 
 - ????
