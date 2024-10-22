@@ -25,13 +25,15 @@ When we talk about OSS, we are talking about software projects whose source code
 
 Why should we care about OSS at Begin?
 
-**Higher Code Quality** - Pushing code to place that is visible to the public should inspire Engineers to write higher quality, better tested, and better documented code.
+**Higher Code Quality** - Pushing code to place that is visible to the public should inspire Engineers to write higher quality, better tested, and better documented code. The software should get more use, thus more edgecases should be tested.
 
 **Increased Code Modularity** - Creating isolated standalone projects means that our code will naturally be better decoupled. This is especially beneficial as we transition into a service-oriented world.
 
 **Exposure** -  Any company or individual can throw up a public repo and brag about how they’re committed to OSS. However, if we maintain a credible standard, this can still be a great opportunity for us to show off our hard work as an engineering team. Making quality work public gives us a good chance of attracting other like-minded talent with a similar appreciation for quality.
 
 **Good Karma** - There are many open source libraries and tools that we use at Begin to help us accomplish our mission. Given the opportunity, we should try to give something of quality back to the community where it might help others accomplish their missions.
+
+**Faster Development** - If we're solving an unsolved problem, others outside of Begin may contribute. 
 
 
 ## Why have a guide at all?
